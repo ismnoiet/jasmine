@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+describe('${1: some description}',function()\{
+   ${2:
+      it('${3: another description }',function()\{
+       ${4:} 
+      
+      \});${5:}
+   }
+
+\});${6:}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>jsmdes</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
+
